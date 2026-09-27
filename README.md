@@ -38,3 +38,7 @@ The moving experience row uses locally hosted image assets so it works without t
 - TPG Technology Consulting logo: https://www.tpgtechnology.com/
 
 The federal and RCMP identities are protected marks. Confirm that Gainport has permission to use them in a commercial site before publishing. The organizations are listed as team experience; the page does not claim their endorsement.
+
+## Certification imagery
+
+The certifications section uses locally hosted artwork from the issuers' official pages: [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/), [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/), [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/), and [The Open Group TOGAF portfolio](https://www.opengroup.org/certifications/togaf). The Microsoft image is its general Fundamentals badge; The Open Group image is its organization logo. The TOGAF certification level has not been specified in the site copy. Before publishing a public certification claim, confirm the team members' current credentials and any issuer badge-use requirements.
