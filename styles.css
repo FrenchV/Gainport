@@ -29,3 +29,14 @@
 .experience-note{display:block;margin-top:16px;color:#96978f;font-size:10px;line-height:1.5}
 @media(max-width:700px){.experience-strip .strip-inner{display:block}.logo-marquee{margin:18px -17px 0}.logo-tile{height:70px;width:210px}.logo-rcmp img,.logo-ircc img,.logo-goc img{width:180px}.logo-track{animation-duration:24s}.experience-org img{width:200px;max-height:43px}.experience-org .tpg-surface{width:130px}.experience-org span{font-size:7px}}
 @media(prefers-reduced-motion:reduce){.logo-track{animation:none}.logo-marquee{overflow-x:auto;mask-image:none}.logo-group[aria-hidden="true"]{display:none}}
+
+/* On-page discovery call booking */
+.booking-section{padding-top:18px;padding-bottom:105px;background:radial-gradient(ellipse 55% 35% at 50% 100%,rgba(249,207,150,.22),transparent 90%)}
+.booking-section .section-heading{max-width:700px;margin-bottom:30px}
+.booking-section .section-heading h2{margin-bottom:14px}
+.booking-section .section-heading p{max-width:610px}
+.booking-card{max-width:980px;margin:0 auto;padding:20px;border:1px solid #e9e7df;border-radius:22px;background:#fff;box-shadow:0 18px 55px rgba(40,33,22,.06);overflow:hidden}
+.booking-card .calendly-inline-widget{width:100%;min-width:0!important}
+.booking-alternative{text-align:center;margin:16px auto 0;color:#77786f;font-size:11px}
+.booking-alternative a{color:#252520;font-weight:700;text-decoration:underline;text-underline-offset:3px}
+@media(max-width:700px){.booking-section{padding-top:0;padding-bottom:75px}.booking-card{padding:4px;border-radius:16px}.booking-card .calendly-inline-widget{height:800px!important}.booking-alternative{max-width:300px;line-height:1.6}}

@@ -16,7 +16,7 @@ Then open `http://localhost:4173`.
 
 Import this folder or Git repository into Vercel. Choose **Other** as the framework preset if prompted, leave the build command empty, and deploy. No environment variables, package installation, or build step are required.
 
-Contact buttons open a message to `arshad.choudary@gainport.ca` in the visitor's email application. Update the `mailto:` links in `index.html` if that address changes.
+Primary contact buttons jump to an embedded Calendly booking section. The booking section also provides a direct Calendly link and an email alternative at `arshad.choudary@gainport.ca`. The Calendly event URL is set in `index.html`.
 
 ## Files
 
@@ -25,6 +25,8 @@ Contact buttons open a message to `arshad.choudary@gainport.ca` in the visitor's
 - `script.js`: mobile menu and copyright year
 - `favicon.svg`: site icon
 - `vercel.json`: Vercel static hosting configuration
+
+The booking calendar loads Calendly's widget script directly in the visitor's browser. It requires no Vercel environment variables or server functions.
 
 ## Organization marks
 
