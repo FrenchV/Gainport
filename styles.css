@@ -133,3 +133,10 @@
   .certification-art-togaf img{width:160px;height:auto}
   .certification-copy{padding:18px}
 }
+
+/* Gainport brand lockup and symbol */
+.brand img{display:block;width:172px;height:auto}
+.footer-brand .brand img{width:190px}
+.direction-core{background:#fff}
+.direction-core img{display:block;width:55px;height:60px;object-fit:contain}
+@media(max-width:700px){.brand img{width:153px}.footer-brand .brand img{width:180px}}
