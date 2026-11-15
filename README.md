@@ -1,6 +1,6 @@
 # Gainport landing page
 
-A responsive, dependency-free landing page for Gainport. It includes cloud migration, architecture, pipeline, platform, operations, and consultancy content, plus experience and FAQ sections.
+A responsive, dependency-free landing page for Gainport, focused on senior cloud architecture and modernization support for Canadian federal prime contractors. It introduces lead consultant Arshad Choudary, describes defined technical workstreams, and retains the Calendly booking flow.
 
 ## Preview locally
 
@@ -25,6 +25,8 @@ Primary contact buttons jump to an embedded Calendly booking section. The bookin
 - `script.js`: mobile menu and copyright year
 - `favicon.svg`: site icon
 - `vercel.json`: Vercel static hosting configuration
+- `POSITIONING_RESEARCH.md`: source-backed rationale for the current offer
+- `assets/arshad-choudary-linkedin.jpg`: Arshad's LinkedIn profile photo, hosted locally for reliability
 
 The booking calendar loads Calendly's widget script directly in the visitor's browser. It requires no Vercel environment variables or server functions.
 
